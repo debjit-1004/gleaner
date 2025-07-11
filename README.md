@@ -2,6 +2,20 @@
 
 Gleaner is a lightweight, terminal-based note-taking application built with Go and the Bubble Tea framework. It provides a minimalistic and efficient way to create, manage, and organize your notes directly from the command line.
 
+
+## Screenshots of the Terminal based App
+### loading screen
+<img width="1366" height="768" alt="250711_17h31m51s_screenshot" src="https://github.com/user-attachments/assets/f1715ae4-ee0a-42fd-9d95-9c9dc85ba978" />
+
+### editing with notes
+<img width="1366" height="768" alt="250711_17h34m21s_screenshot" src="https://github.com/user-attachments/assets/7e5e1861-16e6-4854-990a-d66bd455fb6d" />
+
+### filtering notes
+<img width="1366" height="768" alt="250711_17h35m37s_screenshot" src="https://github.com/user-attachments/assets/f40a8589-fdc4-42fe-9669-55e5d621d047" />
+
+
+
+
 ## 🌟 Features
 
 - **Create Notes**: Quickly create new notes with a simple interface
